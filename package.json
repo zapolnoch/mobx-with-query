@@ -1,0 +1,20 @@
+{
+  "name": "mobx-with-query",
+  "version": "1.0.0",
+  "description": "Fetching server state in your MobX-store",
+  "main": "index.js",
+  "keywords": [
+    "mobx",
+    "query"
+  ],
+  "license": "MIT",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/zapolnoch/mobx-with-query.git"
+  },
+  "peerDependencies": {
+    "mobx": "*",
+    "typescript": "*"
+  }
+}
